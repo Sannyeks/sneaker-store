@@ -1,1 +1,1 @@
-# sneaker-store
+# sneakers-store
