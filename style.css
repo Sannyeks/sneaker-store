@@ -459,6 +459,7 @@ footer {
   padding: 5px;
   background-color: black;
   color: white;
+  cursor: pointer;
 }
 
 .fIcons{
@@ -469,13 +470,13 @@ footer {
   width: 20px;
   height: 20px;
   margin-right: 10px;
+  cursor: pointer;
 }
 
 .copyright{
   font-weight: 300;
   font-size: 14px;
 }
-
 /*Media Screen adaptive mobile*/
 
 @media screen and (max-width:480px) {
