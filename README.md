@@ -1,4 +1,4 @@
-# Sneakers-store\
+# Sneakers-store
 
 Sneakers Store landing page with modern, interactive, stylish design, made in desktop and mobile versions.
 
